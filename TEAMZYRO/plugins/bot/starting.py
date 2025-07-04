@@ -28,7 +28,7 @@ from config import BANNED_USERS
 from strings import get_string
 
 #--------------------------
-NEXI_VID = os.getenv("NEXI_VID", "").split(",") or ["https://files.catbox.moe/ror8ec.MP4"]
+NEXI_VID = os.getenv("NEXI_VID", "").split(",") or ["https://files.catbox.moe/gbghwb.mp4"]
 
 @app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)
 @LanguageStart
