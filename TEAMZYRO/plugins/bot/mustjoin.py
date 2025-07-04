@@ -5,7 +5,7 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 from TEAMZYRO import app
 
 #------------------------
-MUST_JOIN = "CARD3DBOTx"
+MUST_JOIN = "GOJO_SUPPORT_GROUP_II"
 #------------------------
 
 # @app.on_message(filters.incoming & filters.private, group=-1)
