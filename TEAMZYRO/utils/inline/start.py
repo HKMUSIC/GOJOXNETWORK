@@ -30,8 +30,8 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="GitHub Repo",  # Button ka naam
-                url="https://github.com/MrZyro/ZyroMusic"  # Yaha apna repo ka link daalna
+                text="▪ʟᴏʀᴅ▪",  # Button ka naam
+                url="https://t.me/II_YOUR_GOJO_ll"  # Yaha apna repo ka link daalna
             ),
         ],
         [
